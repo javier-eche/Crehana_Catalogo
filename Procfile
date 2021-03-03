@@ -1,0 +1,1 @@
+web: gunicorn crehana_catalogo.wsgi --log-file -
